@@ -1,20 +1,23 @@
-# Zion AI App Network — Interlinks
+# 🌐 Zion AI App Network — Interlink Directory
 
-This app is part of the Zion AI App Network (780+ apps).
+Part of the **Zion AI App Network** by [Zion Tech Group](https://ziontechgroup.com).
 
-## Batch 74 — Legal Tech & Contract AI
-- https://github.com/Zion-support/contract-clause-analyzer
-- https://github.com/Zion-support/legal-doc-drafter
-- https://github.com/Zion-support/compliance-gap-scanner
-- https://github.com/Zion-support/privacy-request-handler
-- https://github.com/Zion-support/litigation-doc-reviewer
-- https://github.com/Zion-support/regulation-change-tracker
+- **Free AI Discovery (always free, always online):** https://ziontechgroup.com/discovery/ — results go to you and commercial@ziontechgroup.com instantly.
+- **Plans:** https://ziontechgroup.com/en/plans/
+- **Showcase:** https://ziontechgroup.com/apps/network.html
+- **Hub:** https://github.com/Zion-support/zion-network
 
-## Hub & resources
-- Network hub: https://github.com/Zion-support/zion-app-network
-- Batch 74 spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-10-04-BATCH74.md
-- Interlinks: https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS-batch74-legal.md
-- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html
-- Free AI Discovery (online, instant results): https://ziontechgroup.com/discovery/
-- Plans: https://ziontechgroup.com/en/plans/
-- Homepage: https://ziontechgroup.com
+## 🧩 Sister apps
+- [litigation-doc-reviewer](https://github.com/Zion-support/litigation-doc-reviewer)
+- [regulation-change-tracker](https://github.com/Zion-support/regulation-change-tracker)
+- [privacy-request-handler](https://github.com/Zion-support/privacy-request-handler)
+- [legal-doc-drafter](https://github.com/Zion-support/legal-doc-drafter)
+- [contract-clause-analyzer](https://github.com/Zion-support/contract-clause-analyzer)
+- [compliance-gap-scanner](https://github.com/Zion-support/compliance-gap-scanner)
+- [legal-contract-analyzer](https://github.com/Zion-support/legal-contract-analyzer)
+- [litigation-hold-manager](https://github.com/Zion-support/litigation-hold-manager)
+- [gdpr-dsar-autopilot](https://github.com/Zion-support/gdpr-dsar-autopilot)
+- [support-sentiment-radar](https://github.com/Zion-support/support-sentiment-radar)
+- [onboarding-journey-optimizer](https://github.com/Zion-support/onboarding-journey-optimizer)
+- [nps-insight-copilot](https://github.com/Zion-support/nps-insight-copilot)
+- [customer-feedback-analyzer](https://github.com/Zion-support/customer-feedback-analyzer)
